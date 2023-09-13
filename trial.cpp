@@ -3,6 +3,6 @@ using namespace std;
 typedef long long ll;
 int main()
 {
-    
+    cout<<"Printing something"
     return 0;
 }
